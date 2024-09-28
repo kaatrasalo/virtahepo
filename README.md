@@ -1,5 +1,7 @@
 # Virtahepo.js
 
+## oh yeah live version at [taro.tf/chess](https://taro.tf/chess)
+
 ![cute hippo](https://hips.hearstapps.com/ell.h-cdn.co/assets/17/22/1024x512/landscape-1496072343-fiona-hippo2.jpg?resize=1200:*)
 
 Step 1: Check for winning captures
